@@ -1,7 +1,32 @@
 # Fashion-style-inference-AI-modeling
 
-Fashion style recommendation system
+SSAFY special domain project 2nd place
 
-AI code
+Fashion style recommendation system AI implementation code
 
-FastAPI backend code
+1. FastAPI backend code
+
+include remove background function using rembg library
+
+2. YOLOv6s object detection
+
+https://github.com/meituan/YOLOv6
+
+detect images that are not related to clothes
+
+3. multi-label style classification
+
+multi-label classification for wearing clothes image
+
+clothes image style classification modeling using semi-supervised learning
+
+4. data analysis code
+
+data preprocessing for training
+
+5. fail experiment
+
+attribute(color, category etc.) classifier modeling
+
+virtual-try-on
+
