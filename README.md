@@ -29,4 +29,5 @@ data preprocessing for training
 attribute(color, category etc.) classifier modeling
 
 virtual-try-on
+https://github.com/hasibzunair/fifa-demo
 
