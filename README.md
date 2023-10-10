@@ -2,6 +2,9 @@
 
 ## SSAFY special domain project 2nd place
 
+This page is my implementation code page.
+
+You can see the project description this [links](https://github.com/yundaehyuck/Fashion-style-inference-AI-modeling/tree/main/guide 'links')
 
 ### Fashion style recommendation system AI implementation code
 
