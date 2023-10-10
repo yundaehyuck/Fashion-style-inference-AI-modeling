@@ -14,6 +14,7 @@
 
 https://github.com/meituan/YOLOv6
 
+- detect object that are related to clothes
 - detect images that are not related to clothes
 
 
